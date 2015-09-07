@@ -1,6 +1,6 @@
-﻿# conect 4
+﻿# connect 4
 
-## http://hillliam.github.io/conect-4/
+## http://hillliam.github.io/connect-4/
 Liam Hill
 ---------
-conect 4 web application based on mazeweb code
+connect 4 web application based on mazeweb code
